@@ -1,0 +1,29 @@
+{
+  "name": "api_design",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "vrohs",
+  "license": "ISC",
+  "description": "prisma + express",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "prisma": "^6.11.1",
+    "ts-node": "^10.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vrohs/API-design.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vrohs/API-design/issues"
+  },
+  "homepage": "https://github.com/Vrohs/API-design#readme"
+}
